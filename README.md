@@ -4,7 +4,7 @@
 - 👀 I’m interested in deep learning, computer vision, linux.
 - 🌱 I’m currently learning multimodal information retrieval.
 - 💞️ I’m looking to collaborate on linux.
-- 📫 How to reach me ganlantee@gmail.com.
+- 📫 How to reach me ganlantee@gmail.com, 2020111122@mail.hfut.edu.cn.
 
 <!---
 kalenforn/kalenforn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

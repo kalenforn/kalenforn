@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-I am a master student studying in Hefei University of Technology. I'm currently working on the field of cross-modal retireval.
+I am a Ph.D student studying in Hefei University of Technology. I'm currently working on the field of cross-modal retireval.
  

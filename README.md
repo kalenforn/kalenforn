@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 
 I am a Ph.D student in Hefei University of Technology. I'm currently working on the field of cross-modal retireval.
+
 （2025/09-2026/02）I’m currently seeking job opportunities. If you have any suitable openings, please feel free to contact me at ganlantee@gmail.com.
  
